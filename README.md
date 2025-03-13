@@ -14,3 +14,6 @@ in potential inefficiencies in decision-making and sales strategies. There is a 
 and visualize critical information related to orders, shipping, customers, and product details to
 identify patterns, optimize processes, and ultimately improve sales performance. The goal is to
 address these challenges through the development of an insightful Power BI dashboard.
+
+Report:
+https://app.powerbi.com/links/30sTM8xF9L?ctid=de614420-786d-4ba7-bb1f-db27ad135a3f&pbi_source=linkShare
